@@ -1,0 +1,36 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 100px;
+    background-color: #D9D9D9;
+    margin-bottom: 5%;
+}
+
+.navWidth{
+    margin-left: 10%;
+    margin-bottom: 2%;
+    width: 80%;
+}
+
+.borderLorem{
+    border: 2px solid black;
+    font-size: 25px;
+    /* font-weight: 700; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 400Px;
+}
+
+.imgStyl{
+    width: fit-content;
+    height: 44%;
+    margin-right: 30%;
+}
+
+.containerStyle{
+    margin-top: -510px;
+    background-color: blueviolet;
+    padding: 20px;
+
+}
